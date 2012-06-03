@@ -6,11 +6,11 @@ GECO
 GECO is an online and distributed password manager. It has been developed by
 Daniel García Moreno (danigm), and you can find it here::
 
-    http://git.danigm.net/gitphp/?p=geco.git&a=summary
+    https://github.com/wadobo/GECO
 
 I have my personal clone hosted on GitHub::
 
-    https://github.com/ablanco/Geco
+    https://github.com/ablanco/GECO
 
 Firefox's Extension
 ===================
