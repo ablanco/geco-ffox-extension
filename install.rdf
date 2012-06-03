@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:em="http://www.mozilla.org/2004/em-rdf#">
+    <Description about="urn:mozilla:install-manifest">
+        <em:id>geco@mensab.com</em:id>
+        <em:version>1.0</em:version>
+        <em:type>2</em:type>
+
+        <em:targetApplication>
+            <Description>
+                <em:id>{ec8030f7-c20a-464f-9b0e-13a3a9e97384}</em:id>
+                <em:minVersion>4.0</em:minVersion>
+                <em:maxVersion>12.*</em:maxVersion>
+            </Description>
+        </em:targetApplication>
+
+        <em:name>GECO Client</em:name>
+        <em:description>A GECO client for Firefox</em:description>
+        <em:creator>Alejandro Blanco</em:creator>
+        <em:homepageURL>http://geco.danigm.net</em:homepageURL>
+        <em:iconURL>chrome://geco-client/content/logo48.png</em:iconURL>
+        <em:icon64URL>chrome://geco-client/content/logo64.png</em:icon64URL>
+        <em:optionsURL>chrome://geco-client/content/preferences.xul</em:optionsURL>
+    </Description>
+</RDF>
